@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.  Sum", "8.  Sum\8.  Sum.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Hello, (name)", "9. Hello, (name)\9. Hello, (name).csproj", "{9F79FEE7-FE1A-4644-AFC2-4D1C9F1B1A18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.  Math", "10.  Math\10.  Math.csproj", "{E78DF8DC-86DE-403C-AEE1-1E293B36ED13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.  Math functions", "11.  Math functions\11.  Math functions.csproj", "{D20B2F3D-7748-4857-B515-43363EE8214B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{9F79FEE7-FE1A-4644-AFC2-4D1C9F1B1A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F79FEE7-FE1A-4644-AFC2-4D1C9F1B1A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F79FEE7-FE1A-4644-AFC2-4D1C9F1B1A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E78DF8DC-86DE-403C-AEE1-1E293B36ED13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E78DF8DC-86DE-403C-AEE1-1E293B36ED13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E78DF8DC-86DE-403C-AEE1-1E293B36ED13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E78DF8DC-86DE-403C-AEE1-1E293B36ED13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D20B2F3D-7748-4857-B515-43363EE8214B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20B2F3D-7748-4857-B515-43363EE8214B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20B2F3D-7748-4857-B515-43363EE8214B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20B2F3D-7748-4857-B515-43363EE8214B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
