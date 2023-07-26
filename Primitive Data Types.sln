@@ -3,27 +3,43 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Variable Type", "1.Variable Type\1.Variable Type.csproj", "{F02D7528-9B97-4D98-A75F-C84835945055}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.Variable Type", "1.Variable Type\1.Variable Type.csproj", "{F02D7528-9B97-4D98-A75F-C84835945055}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Real Numbers", "2. Real Numbers\2. Real Numbers.csproj", "{4AD14362-278D-4798-AC8E-33263CF6EFD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Real Numbers", "2. Real Numbers\2. Real Numbers.csproj", "{4AD14362-278D-4798-AC8E-33263CF6EFD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.  Aretmetic operations", "3.  Aretmetic operations\3.  Aretmetic operations.csproj", "{145FBADD-61A6-4D3B-B31E-84D24D47D53D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.  Aretmetic operations", "3.  Aretmetic operations\3.  Aretmetic operations.csproj", "{145FBADD-61A6-4D3B-B31E-84D24D47D53D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Math Class", "4. Math Class\4. Math Class.csproj", "{63473E57-C8B5-4C3E-8A9E-8023C1A5DD18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Math Class", "4. Math Class\4. Math Class.csproj", "{63473E57-C8B5-4C3E-8A9E-8023C1A5DD18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.  Changing variables", "5.  Changing variables\5.  Changing variables.csproj", "{A9DD6AB7-4B19-4140-8278-6054BDBFB700}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.  Changing variables", "5.  Changing variables\5.  Changing variables.csproj", "{A9DD6AB7-4B19-4140-8278-6054BDBFB700}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.  Sum of 2 numbers", "6.  Sum of 2 numbers\6.  Sum of 2 numbers.csproj", "{BBC06988-2768-4A24-B7DD-80FB791DF910}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.  Sum of 2 numbers", "6.  Sum of 2 numbers\6.  Sum of 2 numbers.csproj", "{BBC06988-2768-4A24-B7DD-80FB791DF910}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.  Printing ot the console", "7.  Printing ot the console\7.  Printing ot the console.csproj", "{85DD71AD-949D-4F1C-A0FB-3E5E00020A93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.  Printing ot the console", "7.  Printing ot the console\7.  Printing ot the console.csproj", "{85DD71AD-949D-4F1C-A0FB-3E5E00020A93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.  Sum", "8.  Sum\8.  Sum.csproj", "{36FA5AB0-5BD5-4F36-BAB0-49DDC4D8863C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8.  Sum", "8.  Sum\8.  Sum.csproj", "{36FA5AB0-5BD5-4F36-BAB0-49DDC4D8863C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Hello, (name)", "9. Hello, (name)\9. Hello, (name).csproj", "{9F79FEE7-FE1A-4644-AFC2-4D1C9F1B1A18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9. Hello, (name)", "9. Hello, (name)\9. Hello, (name).csproj", "{9F79FEE7-FE1A-4644-AFC2-4D1C9F1B1A18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.  Math", "10.  Math\10.  Math.csproj", "{E78DF8DC-86DE-403C-AEE1-1E293B36ED13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.  Math", "10.  Math\10.  Math.csproj", "{E78DF8DC-86DE-403C-AEE1-1E293B36ED13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.  Math functions", "11.  Math functions\11.  Math functions.csproj", "{D20B2F3D-7748-4857-B515-43363EE8214B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.  Math functions", "11.  Math functions\11.  Math functions.csproj", "{D20B2F3D-7748-4857-B515-43363EE8214B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12. Sum plus 10", "12. Sum plus 10\12. Sum plus 10.csproj", "{76C3CD43-6FCA-464C-BE53-BA52BE09E5D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.  Name and age", "13.  Name and age\13.  Name and age.csproj", "{F9B201F4-583A-44B7-B4A6-EAF37D4DAC85}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14. Strings", "14. Strings\14. Strings.csproj", "{A027CD69-650A-40B6-81F3-23097EAC6206}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15.  Bool", "15.  Bool\15.  Bool.csproj", "{84564C0E-6E2F-4A83-8768-EBB35905A812}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16.  Real Numbers2", "16.  Real Numbers2\16.  Real Numbers2.csproj", "{1FB79180-4EE3-4C4F-851D-C2E06A27B356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.  Data types", "17.  Data types\17.  Data types.csproj", "{06E31ABC-977F-4AD1-8EED-5D97E4C13A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.  Math class", "18.  Math class\18.  Math class.csproj", "{8B7D64F9-9D67-4EB4-9C72-8C67DED6FA66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.  Аn equation", "19.  Аn equation\19.  Аn equation.csproj", "{70D06637-16A7-43A2-A599-907C65DA8E95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +91,38 @@ Global
 		{D20B2F3D-7748-4857-B515-43363EE8214B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D20B2F3D-7748-4857-B515-43363EE8214B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D20B2F3D-7748-4857-B515-43363EE8214B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C3CD43-6FCA-464C-BE53-BA52BE09E5D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C3CD43-6FCA-464C-BE53-BA52BE09E5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C3CD43-6FCA-464C-BE53-BA52BE09E5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C3CD43-6FCA-464C-BE53-BA52BE09E5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B201F4-583A-44B7-B4A6-EAF37D4DAC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B201F4-583A-44B7-B4A6-EAF37D4DAC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B201F4-583A-44B7-B4A6-EAF37D4DAC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B201F4-583A-44B7-B4A6-EAF37D4DAC85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A027CD69-650A-40B6-81F3-23097EAC6206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A027CD69-650A-40B6-81F3-23097EAC6206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A027CD69-650A-40B6-81F3-23097EAC6206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A027CD69-650A-40B6-81F3-23097EAC6206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84564C0E-6E2F-4A83-8768-EBB35905A812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84564C0E-6E2F-4A83-8768-EBB35905A812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84564C0E-6E2F-4A83-8768-EBB35905A812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84564C0E-6E2F-4A83-8768-EBB35905A812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB79180-4EE3-4C4F-851D-C2E06A27B356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB79180-4EE3-4C4F-851D-C2E06A27B356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB79180-4EE3-4C4F-851D-C2E06A27B356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB79180-4EE3-4C4F-851D-C2E06A27B356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06E31ABC-977F-4AD1-8EED-5D97E4C13A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E31ABC-977F-4AD1-8EED-5D97E4C13A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E31ABC-977F-4AD1-8EED-5D97E4C13A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E31ABC-977F-4AD1-8EED-5D97E4C13A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B7D64F9-9D67-4EB4-9C72-8C67DED6FA66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7D64F9-9D67-4EB4-9C72-8C67DED6FA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7D64F9-9D67-4EB4-9C72-8C67DED6FA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7D64F9-9D67-4EB4-9C72-8C67DED6FA66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D06637-16A7-43A2-A599-907C65DA8E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D06637-16A7-43A2-A599-907C65DA8E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D06637-16A7-43A2-A599-907C65DA8E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D06637-16A7-43A2-A599-907C65DA8E95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
